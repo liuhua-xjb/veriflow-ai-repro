@@ -1,0 +1,6 @@
+# G4 isolated offline machine learning dependencies; G0-G3 lock stays unchanged.
+numpy==2.3.2
+scipy==1.16.1
+scikit-learn==1.7.1
+joblib==1.5.2
+threadpoolctl==3.6.0

@@ -1,0 +1,6 @@
+# Windows x64 CPython 3.13 wheel hashes; source PyPI; exact wheels archived under .cache/g4-wheels.
+numpy==2.3.2 --hash=sha256:c63d95dc9d67b676e9108fe0d2182987ccb0f11933c1e8959f42fa0da8d4fa56
+scipy==1.16.1 --hash=sha256:81929ed0fa7a5713fcdd8b2e6f73697d3b4c4816d090dd34ff937c20fa90e8ab
+scikit-learn==1.7.1 --hash=sha256:ca6d31fb10e04d50bfd2b50d66744729dbb512d4efd0223b864e2fdbfc4cee11
+joblib==1.5.2 --hash=sha256:4e1f0bdbb987e6d843c70cf43714cb276623def372df3c22fe5266b2670bc241
+threadpoolctl==3.6.0 --hash=sha256:43a0b8fd5a2928500110039e43a5eed8480b918967083ea48dc3ab9f13c4a7fb

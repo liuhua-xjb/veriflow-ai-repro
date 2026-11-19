@@ -1,0 +1,9 @@
+[project]
+name = "veriflow-api"
+version = "0.1.0"
+requires-python = ">=3.11"
+description = "VeriFlow AI G0 local health service"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
